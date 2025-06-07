@@ -1,2 +1,2 @@
-This project successfully implemented a custom K-Nearest Neighbors classifier for exoplanet identification from NASA's Kepler mission data. This was a team effort and it would have not been possible without the contributions of my collaborator.
+This project successfully implemented a custom K-Nearest Neighbors classifier for exoplanet identification from NASA's Kepler mission data. This was a team effort and it would have not been possible without the help from my team mate @saumya0330.
 We believe The Universe is a pretty big place and if it's just us, it seems like an awful waste of space. In the words of Carl Sagan himself "Somewhere Something incredible is waiting to be known" and being in a field like this We are on It.
